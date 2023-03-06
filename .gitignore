@@ -1,0 +1,21 @@
+# IntelliJ files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Compiled output
+out/
+target/
+build/
+bin/
+*.class
+*.jar
+
+# Log files
+*.log
+logs/
+
+# Operating System files
+.DS_Store
+Thumbs.db
